@@ -8,3 +8,4 @@ Nurses must record a report about their visit of the patient. They store in the 
 scheduled time, or they missed, the health condition of the client and services they provided to the client.
 There is a possibility that a nurse cannot visit a client and the company substitute the nurse with another nurse for that
 temporary period. We must store this information too.
+For more information, check Project Report Template file.
